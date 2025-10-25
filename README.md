@@ -1,4 +1,4 @@
-# S1.05 - Java Generics 📦
+# S1.06 - Java Generics 📦
 
 ## 🧾 Task Objectives
 
@@ -22,12 +22,14 @@
 <details>
 
 ### Exercise 1
+
 Create a class named `NoGenericMethods` that stores three arguments of the same type, along with methods to store and retrieve these objects, and a constructor to initialize all three.
 Verify that the arguments can be passed in any order when calling the constructor.
 
   
 
 ### Exercise 2
+
 Create a class named Person with the attributes: name, surname, and age. Then, create a class named GenericMethods with a generic method that accepts three arguments of generic types.
 This method should only print the received arguments to the screen.
 In the main() method of the main class, call the generic method using different types of parameters.
