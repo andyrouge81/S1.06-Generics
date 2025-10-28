@@ -1,7 +1,7 @@
-package level2.exercise2L2.model;
+package level2.exercise2.model;
 
 
-public class GenericMethods2L2 {
+public class GenericMethods2 {
 
     public <T> void generic3(T... listArgs){
 

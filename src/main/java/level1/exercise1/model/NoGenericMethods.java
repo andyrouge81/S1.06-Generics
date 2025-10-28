@@ -1,4 +1,4 @@
-package level1.exercise1L1.model;
+package level1.exercise1.model;
 
 public class NoGenericMethods {
 

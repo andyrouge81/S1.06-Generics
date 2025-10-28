@@ -1,4 +1,4 @@
-package level1.exercise2L1.model;
+package level1.exercise2.model;
 
 public class GenericMethods {
 

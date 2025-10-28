@@ -1,6 +1,6 @@
-package level2.exercise1L2;
+package level2.exercise1;
 
-public class GenericMethods1L2 {
+public class GenericMethods1 {
 
     public <T, U> void generic(T obj1, double obj2, U obj3){
 

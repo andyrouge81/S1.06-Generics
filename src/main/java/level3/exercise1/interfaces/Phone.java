@@ -1,4 +1,4 @@
-package level3.exercise1L3.interfaces;
+package level3.exercise1.interfaces;
 
 public interface Phone {
 

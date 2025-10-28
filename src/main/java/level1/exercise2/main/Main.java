@@ -1,7 +1,7 @@
-package level1.exercise2L1.main;
+package level1.exercise2.main;
 
-import level1.exercise2L1.model.GenericMethods;
-import level1.exercise2L1.model.Person;
+import level1.exercise2.model.GenericMethods;
+import level1.exercise2.model.Person;
 
 
 public class Main {

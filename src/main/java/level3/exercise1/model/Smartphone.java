@@ -1,6 +1,6 @@
-package level3.exercise1L3.model;
+package level3.exercise1.model;
 
-import level3.exercise1L3.interfaces.Phone;
+import level3.exercise1.interfaces.Phone;
 
 public class Smartphone implements Phone {
 

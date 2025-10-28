@@ -1,7 +1,7 @@
-package level3.exercise1L3.main;
+package level3.exercise1.main;
 
-import level3.exercise1L3.model.Generic;
-import level3.exercise1L3.model.Smartphone;
+import level3.exercise1.model.Generic;
+import level3.exercise1.model.Smartphone;
 
 public class Main {
     public static void main(String[] args) {

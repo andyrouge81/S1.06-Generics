@@ -1,6 +1,6 @@
-package level1.exercise1L1.main;
+package level1.exercise1.main;
 
-import level1.exercise1L1.model.NoGenericMethods;
+import level1.exercise1.model.NoGenericMethods;
 
 public class Main {
     public static void main(String[] args) {
