@@ -95,12 +95,12 @@ Can the method in Generic that is bounded by the _Phone_ interface call the `tak
 1. Clone the repository
     
     ```bash
-      git clone https://github.com/andyrouge81/S1.05-Generics.git
+      git clone https://github.com/andyrouge81/S1.06-Generics.git
       
 2. Navigate to the project directory:
 
    ```bash
-   cd S1.05-Generics
+   cd S1.06-Generics
 
 4. Open the project in your IDE.
 5. Locate the `Main.java` or the file for each exercise.
