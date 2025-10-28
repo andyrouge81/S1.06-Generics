@@ -95,7 +95,7 @@ Can the method in Generic that is bounded by the _Phone_ interface call the `tak
 1. Clone the repository
     
     ```bash
-      git clone https://github.com/your-username/S1.05-Generics.git
+      git clone https://github.com/andyrouge81/S1.05-Generics.git
       
 2. Navigate to the project directory:
 
