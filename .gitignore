@@ -13,6 +13,9 @@ target/
 *.iml
 *.ipr
 
+# IntelliJ IDEA project files
+.idea/
+
 ### Eclipse ###
 .apt_generated
 .classpath
